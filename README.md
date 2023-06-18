@@ -22,7 +22,8 @@ pnpm dev
 
 ### Special Thanks
 
-Thanks,[Bhagvad Gita API](https://bhagavadgitaapi.in/) for providing random apis
+> Thanks,[Bhagvad Gita API 1](https://bhagavadgita.io/api/), [Bhagvad Gita API 3](https://rapidapi.com/bhagavad-gita-bhagavad-gita-default/api/bhagavad-gita3) and [Bhagvad Gita API 2](https://bhagavadgitaapi.in) for providing random apis
+> For explanation we are referring to [This Website](https://www.holy-bhagavad-gita.org/chapter/)
 
 #### If you have any suggestion or doubt do let me know
 

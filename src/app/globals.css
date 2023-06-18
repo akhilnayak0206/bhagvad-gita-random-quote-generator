@@ -26,14 +26,9 @@ body {
 
 .card {
   background: #191c29;
-  background-image: url("../../public/card-krishna-arjun-bg-2.jpg");
-  object-fit: contain;
   /* width: var(--card-width);
   height: var(--card-height); */
   /* padding: 3px; */
-  background-size: contain;
-  background-position: top;
-  background-blend-mode: overlay;
   position: relative;
   border-radius: 6px;
   justify-content: center;
@@ -45,6 +40,14 @@ body {
   cursor: pointer;
   font-family: cursive;
   color: rgb(88 199 250 / 100%);
+}
+
+.cardDiv{
+  background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("../../public/card-krishna-arjun-bg-2.jpg");
+  object-fit: contain;
+  background-size: contain;
+  background-position: top;
+  /* background-blend-mode: overlay; */
 }
 
 /* .card:hover {
